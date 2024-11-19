@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  Persons
+
+  Created by Emir Bolat on 19.11.2024.
+  
+*/
+
+"personsTitle" = "Persons";
+
+"loading" = "Loading...";
+"checkInternetConnection" = "Please check your internet connection and try again.";
+"tryAgain" = "Try Again";
+"noPersonsFound" = "No person found.";
+
+"anErrorOccurred" = "An error occurred.";
+"invalidEmailURL" = "Invalid email format. Please check the email address.";
+"invalidPhoneURL" = "Invalid phone number format. Please check the phone number.";
+"invalidWebsiteURL" = "Invalid website address. Please check the address.";
+"invalidCoordinates" = "Invalid coordinates.";
+"cannotOpenURL" = "The URL cannot be opened. Please try again later.";
+
+"personDetailsTitle"= "Person Details";
+"errorTitle"= "Error";
+"alertButton"= "OK";
+"personalInformationSectionHeader"= "Personal Information";
+"personName"= "Person Name";
+"emailAddress"= "Email Address";
+"phoneNumber"= "Phone Number";
+"companyInformationSectionHeader"= "Company Information";
+"companyName"= "Company Name";
+"catchPhrase"= "Catch Phrase";
+"addressInformationSectionHeader"= "Address Information";
+"street"= "Street";
+"city"= "City";
+"zipcode"= "Zipcode";
+"mapSectionHeader"= "Map (Person Location)";
